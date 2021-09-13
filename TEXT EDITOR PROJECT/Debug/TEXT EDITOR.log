@@ -1,0 +1,4 @@
+﻿  Source.cpp
+F:\TEXT EDITOR\Source.cpp(1357): warning C4309: 'initializing': truncation of constant value
+F:\TEXT EDITOR\Source.cpp(1391): warning C4309: 'initializing': truncation of constant value
+  TEXT EDITOR.vcxproj -> F:\TEXT EDITOR\Debug\TEXT EDITOR.exe
