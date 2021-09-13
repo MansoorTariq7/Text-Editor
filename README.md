@@ -1,2 +1,2 @@
 # Text-Editor
-Software development project. An app like MS WORD. Made in C++
+Software development project. An app like Notpad. Made in C++
